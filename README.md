@@ -1,6 +1,6 @@
 # Daily Digest 📬
 
-![Daily Digest Logo](assets/daily-digest-logo.png)
+![Daily Digest Logo](assets/daily-digest-logo.png.png)
 
 > *Your newsletters, summarized. Your questions, answered.*
 
@@ -22,27 +22,27 @@ Daily Digest fixes that. One message, and you're caught up.
 
 **Type "digest" → pick a date**
 
-![Date picker](assets/date-picker.png.jpeg)
+![Date picker](assets/date-picker.png.jpeg.jpeg)
 
 **Choose a newsletter**
 
-![Newsletter selection](assets/newsletter-selection.png.jpeg)
+![Newsletter selection](assets/newsletter-selection.png.jpeg.jpeg)
 
 **Browse sections**
 
-![Section menu](assets/section-menu.png.jpeg)
+![Section menu](assets/section-menu.png.jpeg.jpeg)
 
 **Get a sharp AI summary — with article titles, context, and links**
 
-![Section summary](assets/section-summary.png.jpeg)
+![Section summary](assets/section-summary.png.jpeg.jpeg)
 
 **Ask anything — Claude has the full context of what you just read**
 
-![Chat reply](assets/chat-reply.png.jpeg)
+![Chat reply](assets/chat-reply.png.jpeg.jpeg)
 
 **Iterate — reformat, simplify, go deeper**
 
-![Chat reformatted](assets/chat-reformatted.png.jpeg)
+![Chat reformatted](assets/chat-reformatted.png.jpeg.jpeg)
 
 ---
 
