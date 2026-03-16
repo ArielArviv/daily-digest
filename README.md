@@ -22,27 +22,27 @@ Daily Digest fixes that. One message, and you're caught up.
 
 **Type "digest" → pick a date**
 
-<img src="assets/date-picker.png.jpeg" width="380" />
+<img src="assets/date-picker.png.jpeg" width="570" />
 
 **Choose a newsletter**
 
-<img src="assets/newsletter-selection.png.jpeg" width="380" />
+<img src="assets/newsletter-selection.png.jpeg" width="570" />
 
 **Browse sections**
 
-<img src="assets/section-menu.png.jpeg" width="380" />
+<img src="assets/section-menu.png.jpeg" width="570" />
 
 **Get a sharp AI summary — with article titles, context, and links**
 
-<img src="assets/section-summary.png.jpeg" width="380" />
+<img src="assets/section-summary.png.jpeg" width="570" />
 
 **Ask anything — Claude has the full context of what you just read**
 
-<img src="assets/chat-reply.png.jpeg" width="380" />
+<img src="assets/chat-reply.png.jpeg" width="570" />
 
 **Iterate — reformat, simplify, go deeper**
 
-<img src="assets/chat-reformatted.png.jpeg" width="380" />
+<img src="assets/chat-reformatted.png.jpeg" width="570" />
 
 ---
 
