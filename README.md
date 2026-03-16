@@ -1,6 +1,6 @@
 # Daily Digest 📬
 
-![Daily Digest Logo](assets/daily-digest-logo.png.png)
+<img src="assets/daily-digest-logo.png.png" width="120" />
 
 > *Your newsletters, summarized. Your questions, answered.*
 
