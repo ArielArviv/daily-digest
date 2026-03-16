@@ -1,5 +1,7 @@
 # Daily Digest 📬
 
+![Daily Digest Logo](assets/daily-digest-logo.png)
+
 > *Your newsletters, summarized. Your questions, answered.*
 
 A personal Telegram bot that fetches Gmail newsletters, summarizes them with Claude AI, and lets you have a real conversation about what you read — all from your phone, in under a minute.
